@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  background: #f9f9f9;
+}
+input, textarea, button {
+  margin: 5px 0;
+  padding: 10px;
+  width: 100%;
+}
+#client-list div {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  background: white;
+}
